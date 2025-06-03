@@ -78,7 +78,7 @@ if ($resultado->num_rows > 0){
 
         if ($resultado->num_rows > 0){
             while($row = $resultado->fetch_assoc()){
-                echo "";
+                echo "Banana teste commite!";
             }
         }
 
